@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidhasan8" alt="jahidhasan8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jahidha58796811" target="blank"><img src="https://img.shields.io/twitter/follow/jahidha58796811?logo=twitter&style=for-the-badge" alt="jahidha58796811" /></a> </p>
-
 - 🔭 I’m currently working on [Mannat Tour Service](https://github.com/jahidhasan8/Mannat-Tour-Service-Server)
 
 - 🌱 I’m currently learning **Typescript,Redux Toolkit, Material Ui**
