@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jahidha58796811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahidha58796811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@jahidhasan88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@jahidhasan88" height="30" width="40" /></a>
-<a href="https://fb.com/@jahid.hasan.558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@jahid.hasan.558" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahidhasan88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahidhasan88" height="30" width="40" /></a>
+<a href="https://fb.com/jahid.hasan.558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahid.hasan.558" height="30" width="40" /></a>
 <a href="https://discord.gg/Md Jahid Hasan #1849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Jahid Hasan #1849" height="30" width="40" /></a>
 </p>
 
