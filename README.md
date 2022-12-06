@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jahidhasan1931@gmail.com**
 
-- 📄 Know about my experiences [https://tiny.one/Jahid-hasan-Resume](https://tiny.one/Jahid-hasan-Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CUq0DLhI9KTgdrKpbE3Y1fq7C8XUvxX1/view?usp=share_link](https://drive.google.com/file/d/1CUq0DLhI9KTgdrKpbE3Y1fq7C8XUvxX1/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
